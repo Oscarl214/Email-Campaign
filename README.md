@@ -6,7 +6,7 @@
 
 A html coded email dedicated for the marketing of my app CrowdQuery. Personal project to touch up on my HTML and CSS while also taking a dip into email developing.
 
-Currently the email works on most email clients. Still working on a workaround for the gmail app client as soon in the images.
+Currently the email works on most email clients. Still working on a workaround for the gmail app client as shown in the images.
 
 ## Business Case
 
