@@ -36,13 +36,13 @@ This application was developed by the following contributors:
 ## UI
 
 1. Testing
-   ![Testing](./client/public/Testing.png)
+   ![Testing](./Testing.png)
 
 2. Across Devices
-   ![AcrossDevices](./client/public/Devices.png)
+   ![AcrossDevices](./Devices.png)
 
 3. Current View on Gmail
-   ![Gmail](./client/public/GmailView.png)
+   ![Gmail](./GmailView.png)
 
 ## Technologies
 
